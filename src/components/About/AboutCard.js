@@ -12,8 +12,9 @@ function AboutCard() {
             from <span className="purple"> Addis Ababa, Ethiopia.</span>
             <br />
             {/* I am currently employed as a software developer at Juspay. */}
-            <br />
-            I am currently learn MSc in Software Engineering at <span className="purple">HiLCoE</span> School Of Computer Science And Technology.
+            <br />I am currently learn MSc in Software Engineering at{" "}
+            <span className="purple">HiLCoE</span>
+            School Of Computer Science And Technology.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!

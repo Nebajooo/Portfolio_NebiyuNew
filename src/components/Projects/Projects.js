@@ -26,7 +26,8 @@ function Projects() {
               imgPath={weather}
               isBlog={false}
               title="Weather App"
-              description="It enables users to search for weather conditions worldwide and delivers current weather information. Developed by react.js,"
+              description="It enables users to search for weather conditions worldwide and delivers current weather 
+              information. Developed by react.js,"
               ghLink="https://github.com/Nebajooo/Weather_App_By_ReactJs"
               // demoLink="https://chatify-49.web.app/"
             />
@@ -50,7 +51,8 @@ function Projects() {
               imgPath={editor}
               isBlog={false}
               title="Sage Training Institute Website"
-              description="The MERN stack project integrates user registration, attendance tracking, e-learning capabilities,
+              description="The MERN stack project integrates user registration, attendance tracking, e-learning 
+              capabilities,
                and a book store with features"
               ghLink="https://github.com/Nebajooo/Sage_Website_Project"
               // demoLink="https://editor.soumya-jit.tech/"
@@ -74,7 +76,8 @@ function Projects() {
               imgPath={todo}
               isBlog={false}
               title="Todo List App By ReactJs"
-              description="To create a to-do item we are going to need a button that triggers a function which adds a to-do item to our to-do list."
+              description="To create a to-do item we are going to need a button that triggers a function which adds a 
+              to-do item to our to-do list."
               ghLink="https://github.com/Nebajooo/Todo_List_App_By_ReactJs"
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
