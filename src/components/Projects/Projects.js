@@ -67,7 +67,7 @@ function Projects() {
               description="About the =>Games played on three-in-a-row boards can be traced back to ancient Egypt,
                where such game boards have been found on roofing tiles dating from around 1300 BC."
               ghLink="https://github.com/Nebajooo/Tic_Tac_Toe_Game_By_ReactJs"
-              // demoLink="https://plant49-ai.herokuapp.com/"
+              demoLink="https://tictactoene.netlify.app"
             />
           </Col>
 
