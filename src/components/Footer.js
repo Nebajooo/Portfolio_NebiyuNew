@@ -23,11 +23,10 @@ function Footer() {
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href=""
+                href="https://github.com/Nebajooo"
                 style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer"
-              >
+                target="_blank"
+                rel="noopener noreferrer">
                 <AiFillGithub />
               </a>
             </li>
@@ -35,9 +34,8 @@ function Footer() {
               <a
                 href=""
                 style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer"
-              >
+                target="_blank"
+                rel="noopener noreferrer">
                 <AiOutlineTwitter />
               </a>
             </li>
@@ -45,9 +43,8 @@ function Footer() {
               <a
                 href=""
                 style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer"
-              >
+                target="_blank"
+                rel="noopener noreferrer">
                 <FaLinkedinIn />
               </a>
             </li>
@@ -55,9 +52,8 @@ function Footer() {
               <a
                 href=""
                 style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer"
-              >
+                target="_blank"
+                rel="noopener noreferrer">
                 <AiFillInstagram />
               </a>
             </li>
