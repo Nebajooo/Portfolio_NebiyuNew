@@ -8,6 +8,8 @@ import book from "../../Assets/Projects/book.jpg";
 import sms from "../../Assets/Projects/sms.png";
 import tictactoe from "../../Assets/Projects/tictactoe.png";
 import todo from "../../Assets/Projects/todo.png";
+import hakim from "../../Assets/Projects/hakim.png";
+import kachamale from "../../Assets/Projects/kachamale.png";
 
 function Projects() {
   return (
@@ -23,13 +25,31 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
+              imgPath={hakim}
+              isBlog={false}
+              title="Hakim_Ketero"
+              description="Hakim Ketero is a full-stack web-based doctor appointment system developed using React, Node.js, Express, and MongoDB. It allows patients to register, view doctors, and book appointments, while doctors can manage their schedules. The platform includes secure authentication and an admin dashboard for user and doctor management."
+              ghLink="https://github.com/Nebajooo/Hakim_Ketero"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={kachamale}
+              isBlog={false}
+              title="Bus Online Ticket system"
+              description="Bus Online Ticket System is a full-stack web application developed using React, Node.js, and MongoDB. It allows users to search buses, book tickets, select seats, and make secure payments. "
+              ghLink="https://github.com/Nebajooo/Kachamale_-"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
               imgPath={weather}
               isBlog={false}
               title="Weather App"
               description="It enables users to search for weather conditions worldwide and delivers current weather 
               information. Developed by react.js,"
               ghLink="https://github.com/Nebajooo/Weather_App_By_ReactJs"
-              // demoLink="https://chatify-49.web.app/"
             />
           </Col>
 
@@ -42,7 +62,6 @@ function Projects() {
               with ReactJS that interacts with a server through an API to manage and display book 
               information, supporting operations like adding, updating, and deleting books."
               ghLink="https://github.com/Nebajooo/ReactJs_Api_Book_Store"
-              // demoLink="https://blogs.soumya-jit.tech/"
             />
           </Col>
 
@@ -55,7 +74,6 @@ function Projects() {
               capabilities,
                and a book store with features"
               ghLink="https://github.com/Nebajooo/Sage_Website_Project"
-              // demoLink="https://editor.soumya-jit.tech/"
             />
           </Col>
 
