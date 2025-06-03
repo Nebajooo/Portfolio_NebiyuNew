@@ -10,6 +10,7 @@ import tictactoe from "../../Assets/Projects/tictactoe.png";
 import todo from "../../Assets/Projects/todo.png";
 import hakim from "../../Assets/Projects/hakim.png";
 import kachamale from "../../Assets/Projects/kachamale.png";
+import cms from "../../Assets/Projects/cms.jpeg";
 
 function Projects() {
   return (
@@ -23,6 +24,15 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={cms}
+              isBlog={false}
+              title="CMS"
+              description="College Management System is a full-stack web application designed to manage student records, teacher profiles, course registrations, grades, and announcements. Built using React, Node.js, Express, and MongoDB, the system includes separate dashboards for students, teachers, and admins with secure login and role-based access."
+              ghLink="https://github.com/Nebajooo/Hakim_Ketero"
+            />
+          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={hakim}
