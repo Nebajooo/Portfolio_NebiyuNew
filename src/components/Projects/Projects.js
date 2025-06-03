@@ -30,7 +30,7 @@ function Projects() {
               isBlog={false}
               title="CMS"
               description="College Management System is a full-stack web application designed to manage student records, teacher profiles, course registrations, grades, and announcements. Built using React, Node.js, Express, and MongoDB, the system includes separate dashboards for students, teachers, and admins with secure login and role-based access."
-              ghLink="https://github.com/Nebajooo/Hakim_Ketero"
+              ghLink="https://github.com/Nebajooo/CMS"
             />
           </Col>
           <Col md={4} className="project-card">
