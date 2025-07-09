@@ -59,6 +59,7 @@ function Projects() {
               title="GOJO Real state"
               description="Gojo Real Estate is a real estate platform developed as a frontend-only project using modern web technologies. The website showcases available properties, company services, and contact information in a clean and user-friendly layout. Key features include property listings, responsive design, and intuitive navigation. The project demonstrates skills in React, Tailwind CSS, and responsive UI development. "
               ghLink="https://github.com/Nebajooo/Gojo_Real-estate"
+              demoLink="https://gojorealstate.netlify.app/"
             />
           </Col>
 
