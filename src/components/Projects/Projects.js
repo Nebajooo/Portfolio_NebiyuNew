@@ -11,6 +11,7 @@ import todo from "../../Assets/Projects/todo.png";
 import hakim from "../../Assets/Projects/hakim.png";
 import kachamale from "../../Assets/Projects/kachamale.png";
 import cms from "../../Assets/Projects/cms.jpeg";
+import gojoreal from "../../Assets/Projects/gojoreal.png";
 
 function Projects() {
   return (
@@ -49,6 +50,15 @@ function Projects() {
               title="Bus Online Ticket system"
               description="Bus Online Ticket System is a full-stack web application developed using React, Node.js, and MongoDB. It allows users to search buses, book tickets, select seats, and make secure payments. "
               ghLink="https://github.com/Nebajooo/Kachamale_-"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={gojoreal}
+              isBlog={false}
+              title="GOJO Real state"
+              description="Gojo Real Estate is a real estate platform developed as a frontend-only project using modern web technologies. The website showcases available properties, company services, and contact information in a clean and user-friendly layout. Key features include property listings, responsive design, and intuitive navigation. The project demonstrates skills in React, Tailwind CSS, and responsive UI development. "
+              ghLink="https://github.com/Nebajooo/Gojo_Real-estate"
             />
           </Col>
 
