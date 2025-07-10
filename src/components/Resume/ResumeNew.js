@@ -30,12 +30,13 @@ function ResumeNew() {
             &nbsp;Show CV
           </Button>
         </Row>
+        <h2>Click the button to view the full CV</h2>
 
-        {/* <Row className="resume">
-          <Document file={pdf} className="d-flex justify-content-center" >
-            <Page pageNumber={1} scale={width > 786 ? 1.7 : 0.6}  />
+        <Row className="resume">
+          <Document file={pdf} className="d-flex justify-content-center">
+            <Page pageNumber={1} scale={width > 786 ? 1.7 : 0.6} />
           </Document>
-        </Row> */}
+        </Row>
 
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
