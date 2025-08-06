@@ -10,7 +10,7 @@ import tictactoe from "../../Assets/Projects/tictactoe.png";
 import todo from "../../Assets/Projects/todo.png";
 import hakim from "../../Assets/Projects/hakim.png";
 import kachamale from "../../Assets/Projects/kachamale.png";
-import cms from "../../Assets/Projects/cms.jpeg";
+import cms from "../../Assets/Projects/cms.png";
 import gojoreal from "../../Assets/Projects/gojoreal.png";
 
 function Projects() {
