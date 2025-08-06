@@ -12,7 +12,7 @@ import hakim from "../../Assets/Projects/hakim.png";
 import kachamale from "../../Assets/Projects/kachamale.png";
 import cms from "../../Assets/Projects/cms.png";
 import gojoreal from "../../Assets/Projects/gojoreal.png";
-
+import sage from "../../Assets/Projects/sage.png";
 function Projects() {
   return (
     <Container fluid className="project-section">
