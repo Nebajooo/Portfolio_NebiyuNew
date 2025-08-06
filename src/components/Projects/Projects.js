@@ -88,7 +88,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={editor}
+              imgPath={sage}
               isBlog={false}
               title="Sage Training Institute Website"
               description="The MERN stack project integrates user registration, attendance tracking, e-learning 
