@@ -13,6 +13,8 @@ import kachamale from "../../Assets/Projects/kachamale.png";
 import cms from "../../Assets/Projects/cms.png";
 import gojoreal from "../../Assets/Projects/gojoreal.png";
 import sage from "../../Assets/Projects/sage.png";
+import yearbook from "../../Assets/Projects/yearbook.png";
+
 function Projects() {
   return (
     <Container fluid className="project-section">
@@ -60,6 +62,17 @@ function Projects() {
               description="Gojo Real Estate is a real estate platform developed as a frontend-only project using modern web technologies. The website showcases available properties, company services, and contact information in a clean and user-friendly layout. Key features include property listings, responsive design, and intuitive navigation. The project demonstrates skills in React, Tailwind CSS, and responsive UI development. "
               ghLink="https://github.com/Nebajooo/Gojo_Real-estate"
               demoLink="https://gojorealstate.netlify.app/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={yearbook}
+              isBlog={false}
+              title="Year Book"
+              description="A visual yearbook of HiLCoE students — a gallery of classmate photos with names and memorable moments. Simple, clean, and made to capture faces and friendships from our college journey."
+              ghLink="https://github.com/Nebajooo/HiLCoE-YearBook-class-of-2025"
+              demoLink="https://hi-l-co-e-year-book-class-of-2025.vercel.app/"
             />
           </Col>
 
