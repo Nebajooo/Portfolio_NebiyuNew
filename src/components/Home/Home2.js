@@ -24,7 +24,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> Java, Javascript and Php. </b>
+                <b className="purple">Python, Java, Javascript and Php. </b>
               </i>
               <br />
               <br />
@@ -66,7 +66,8 @@ function Home2() {
                   href="https://github.com/nebajooo"
                   target="_blank"
                   rel="noreferrer"
-                  className="icon-colour  home-social-icons">
+                  className="icon-colour  home-social-icons"
+                >
                   <AiFillGithub />
                 </a>
               </li>
@@ -75,7 +76,8 @@ function Home2() {
                   href="https://twitter.com/nebiyu"
                   target="_blank"
                   rel="noreferrer"
-                  className="icon-colour  home-social-icons">
+                  className="icon-colour  home-social-icons"
+                >
                   <AiOutlineTwitter />
                 </a>
               </li>
@@ -84,7 +86,8 @@ function Home2() {
                   href="https://www.linkedin.com/in/nebiyu-yohannes-52983722a"
                   target="_blank"
                   rel="noreferrer"
-                  className="icon-colour  home-social-icons">
+                  className="icon-colour  home-social-icons"
+                >
                   <FaLinkedinIn />
                 </a>
               </li>
@@ -93,7 +96,8 @@ function Home2() {
                   href="https://www.instagram.com/nebajooo"
                   target="_blank"
                   rel="noreferrer"
-                  className="icon-colour home-social-icons">
+                  className="icon-colour home-social-icons"
+                >
                   <AiFillInstagram />
                 </a>
               </li>

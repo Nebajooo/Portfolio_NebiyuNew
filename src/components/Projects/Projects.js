@@ -14,6 +14,7 @@ import cms from "../../Assets/Projects/cms.png";
 import gojoreal from "../../Assets/Projects/gojoreal.png";
 import sage from "../../Assets/Projects/sage.png";
 import yearbook from "../../Assets/Projects/yearbook.png";
+import erp from "../../Assets/Projects/erp.jpg";
 
 function Projects() {
   return (
@@ -27,6 +28,15 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={erp}
+              isBlog={false}
+              title="ERP"
+              description="Developed and customized an ERP system using Odoo to support core business operations including sales, inventory, accounting, and human resource management. The system was designed to improve workflow automation, data accuracy, and operational efficiency."
+              ghLink="Private Repository (Confidential Company Project)"
+            />
+          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={cms}
