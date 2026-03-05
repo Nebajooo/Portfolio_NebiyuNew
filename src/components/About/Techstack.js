@@ -12,6 +12,8 @@ import {
   DiCss3,
   DiHtml5,
   DiWordpress,
+  DiPython,
+  SiPostgresql,
 } from "react-icons/di";
 import {
   SiFirebase,
