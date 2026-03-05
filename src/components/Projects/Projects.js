@@ -33,7 +33,7 @@ function Projects() {
               imgPath={erp}
               isBlog={false}
               title="ERP"
-              description="Developed and customized an ERP system using Odoo to support core business operations including sales, inventory, accounting, and human resource management. The system was designed to improve workflow automation, data accuracy, and operational efficiency."
+              description="Developed and customized an ERP system using Odoo to support core business operations including sales, inventory, accounting, and human resource management. The system was designed to improve workflow automation, data accuracy, and operational efficiency. Developed By Python "
               ghLink="Private Repository (Confidential Company Project)"
             />
           </Col>
