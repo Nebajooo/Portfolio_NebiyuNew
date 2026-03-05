@@ -13,7 +13,6 @@ import {
   DiHtml5,
   DiWordpress,
   DiPython,
-  SiPostgresql,
 } from "react-icons/di";
 import {
   SiFirebase,
@@ -21,6 +20,7 @@ import {
   SiNetlify,
   SiBootstrap,
   SiSpringboot,
+  SiPostgresql,
 } from "react-icons/si";
 
 function Techstack() {
