@@ -26,7 +26,8 @@ function Footer() {
                 href="https://github.com/Nebajooo"
                 style={{ color: "white" }}
                 target="_blank"
-                rel="noopener noreferrer">
+                rel="noopener noreferrer"
+              >
                 <AiFillGithub />
               </a>
             </li>
@@ -35,7 +36,8 @@ function Footer() {
                 href=""
                 style={{ color: "white" }}
                 target="_blank"
-                rel="noopener noreferrer">
+                rel="noopener noreferrer"
+              >
                 <AiOutlineTwitter />
               </a>
             </li>
@@ -44,7 +46,8 @@ function Footer() {
                 href="https://www.linkedin.com/in/nebiyu-yohannes-52983722a"
                 style={{ color: "white" }}
                 target="_blank"
-                rel="noopener noreferrer">
+                rel="noopener noreferrer"
+              >
                 <FaLinkedinIn />
               </a>
             </li>
@@ -53,7 +56,8 @@ function Footer() {
                 href=""
                 style={{ color: "white" }}
                 target="_blank"
-                rel="noopener noreferrer">
+                rel="noopener noreferrer"
+              >
                 <AiFillInstagram />
               </a>
             </li>
