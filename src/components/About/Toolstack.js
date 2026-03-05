@@ -1,19 +1,11 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
 import { DiEclipse } from "react-icons/di";
-import {
-  SiVisualstudiocode,
-  SiPostman,
-  SiSlack,
-
- SiVisualstudio,
- 
-} from "react-icons/si";
+import { SiVisualstudiocode, SiPostman, SiVisualstudio } from "react-icons/si";
 
 function Toolstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
-      
       <Col xs={4} md={2} className="tech-icons">
         <SiVisualstudiocode />
       </Col>
